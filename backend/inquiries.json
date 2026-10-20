@@ -1,0 +1,58 @@
+[
+  {
+    "reference_id": "AB-MC-202610-D0C48E",
+    "timestamp": "2026-10-15T20:40:30.651982Z",
+    "name": "Lord Sterling",
+    "email": "sterling@familyoffice.mc",
+    "phone": null,
+    "interest_type": "ACQUISITION",
+    "vessel_id": "aetheria",
+    "message": "Requesting technical specification and sea-trial logs for M/Y AETHERIA.",
+    "advisor": "Aryan Batra",
+    "advisor_email": "aryanbatra18@gmail.com"
+  },
+  {
+    "reference_id": "AB-MC-202610-60265C",
+    "timestamp": "2026-10-15T22:27:53.965065Z",
+    "name": "Monaco Yacht Brokerage",
+    "email": "recruitment@monacoyacht.mc",
+    "phone": null,
+    "inquiry_type": "BROKERAGE_RECRUITMENT",
+    "message": "Inviting Aryan Batra for an interview regarding Junior Yacht Broker role.",
+    "candidate": "Aryan Batra",
+    "candidate_email": "aryanbatra18@gmail.com"
+  },
+  {
+    "reference_id": "AB-MC-202610-E0FB08",
+    "timestamp": "2026-10-16T14:32:55.518933Z",
+    "name": "Arvind",
+    "email": "vishalarvind990@gmail.com",
+    "phone": null,
+    "inquiry_type": "GENERAL_COLLABORATION",
+    "message": "goate goate goate",
+    "candidate": "Aryan Batra",
+    "candidate_email": "aryanbatra18@gmail.com"
+  },
+  {
+    "reference_id": "AB-MC-202610-5049EB",
+    "timestamp": "2026-10-16T14:34:11.129454Z",
+    "name": "Arvind",
+    "email": "vishalarvind990@gmail.com",
+    "phone": null,
+    "inquiry_type": "GENERAL_COLLABORATION",
+    "message": "goate goate goate",
+    "candidate": "Aryan Batra",
+    "candidate_email": "aryanbatra18@gmail.com"
+  },
+  {
+    "reference_id": "AB-MC-202610-7C4C47",
+    "timestamp": "2026-10-16T14:34:12.579436Z",
+    "name": "Arvind",
+    "email": "vishalarvind990@gmail.com",
+    "phone": null,
+    "inquiry_type": "GENERAL_COLLABORATION",
+    "message": "goate goate goate",
+    "candidate": "Aryan Batra",
+    "candidate_email": "aryanbatra18@gmail.com"
+  }
+]
